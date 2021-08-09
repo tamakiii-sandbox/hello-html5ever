@@ -1,0 +1,11 @@
+[package]
+name = "hello-html5ever"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+html5ever = "*"
+markup5ever_rcdom = "*"
+tendril = "*"
